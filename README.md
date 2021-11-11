@@ -11,4 +11,9 @@ D or DOWN: move down
 
 SPACE: drop to bottom
 
-p: reset score & highscore (can't be undone, except through edditing HighScore.txt file)
+p: reset score & highscore
+
+--------------------------------------------------------------------------------------------------
+#1 Editor's Note:
+
+reseting score can't be undone, except through editing HighScore.txt file
