@@ -14,6 +14,6 @@ SPACE: drop to bottom
 p: reset score & highscore
 
 --------------------------------------------------------------------------------------------------
-#1 Editor's Note:
+## Editor's Note:
 
 reseting score can't be undone, except through editing HighScore.txt file
